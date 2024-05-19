@@ -1,2 +1,2 @@
 # Java
- Curso em Video  Java
+ Curso em Video de Java
